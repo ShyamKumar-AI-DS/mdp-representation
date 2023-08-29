@@ -1,10 +1,10 @@
 # MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
+To reach the goal of making air traffic better.
 
 ## PROBLEM STATEMENT:
-
+Reducing the air traffic using reinforcement learning.
 ### Problem Description
 Write your answer here
 
